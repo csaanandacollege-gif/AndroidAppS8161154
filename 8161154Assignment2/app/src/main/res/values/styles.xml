@@ -1,0 +1,1 @@
+<resources><style name="Theme.Assignment" parent="Theme.MaterialComponents.DayNight.NoActionBar"><item name="colorPrimary">#145E68</item><item name="colorPrimaryVariant">#104851</item><item name="colorOnPrimary">#FFFFFF</item><item name="colorSecondary">#145E68</item><item name="android:fontFamily">sans</item></style></resources>
